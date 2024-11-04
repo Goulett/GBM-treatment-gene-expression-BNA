@@ -1,5 +1,11 @@
 # Bayesian Network Analysis of Treatment-Gene Expression Relationships in Glioblastoma Multiforme
 
+## Authors
+
+- [Olivia Williamson](https://github.com/oliviawilliamson)  
+- [Natalie Goulett](https://github.com/Goulett)  
+- [Gabriel Odom](https://github.com/gabrielodom)  
+
 ## Overview
 
 This repository contains R scripts and associated data for a research project analyzing gene expression and treatment effects in patients with Glioblastoma Multiforme (GBM). Using two datasets from the Gene Expression Omnibus (GEO) database, we constructed a Bayesian network to explore relationships between three chemotherapy treatments (Regorafenib, Lomustine, and Selinexor) and gene expression within these patients.
